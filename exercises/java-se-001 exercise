@@ -1,0 +1,8 @@
+public class PersonalIntroduction {
+
+    public static void main(String[] args) {
+        System.out.println("Name: Collins Njuguna");
+        System.out.println("Goals: Become a professional Java backend developer");
+        System.out.println("Excited to learn: Object-Oriented Programming and Spring Boot");
+    }
+}
